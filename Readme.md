@@ -120,6 +120,6 @@ No part of this project code was blindly copy-pasted. The student is fully capab
 
 ## 👨‍💻 Author
 
-**Name:** Zeeshan Khalid  
+**Name:** Muhammad Zeeshan  
 **Student ID:** F2025436011  
 **Course:** AI5301 - Advanced Artificial Intelligence
