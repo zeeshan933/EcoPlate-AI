@@ -8,6 +8,7 @@
 
 The system addresses real-world sustainability by applying AI techniques to calculate the percentage of uneaten food and provide actionable recommendations.
 
+![EcoPlate App Demo](streamlit_app_demo.png)
 ---
 
 ## 🚀 Features
