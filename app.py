@@ -92,7 +92,7 @@ def load_resources():
     
     # Fallback path logic
     if not os.path.exists(model_path):
-        model_path = '/home/muhammad-zeeshan/Desktop/AI Term Project/Models/EfficientNetB3_food_waste_model.h5'
+        model_path = 'EfficientNetB3_food_waste_model.h5'
 
     try:
         model = tf.keras.models.load_model(model_path)
